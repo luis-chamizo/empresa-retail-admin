@@ -12,13 +12,13 @@ CREATE ROLE 'marta';
 -- =========================================
 
 CREATE USER 'ana_crm'@'localhost'
-IDENTIFIED BY 'Retail2026!Caja';
+IDENTIFIED BY 'CAMBIAR_ESTA_CLAVE';
 
 CREATE USER 'pedro_mkt'@'localhost'
-IDENTIFIED BY 'Retail2026!Stock';
+IDENTIFIED BY 'CAMBIAR_ESTA_CLAVE';
 
 CREATE USER 'marta_auditoria'@'localhost'
-IDENTIFIED BY 'Retail2026!Admin';
+IDENTIFIED BY 'CAMBIAR_ESTA_CLAVE';
 
 
 -- =========================================
